@@ -1,11 +1,8 @@
 package com.springai.init.service;
 
 
-import java.util.Optional;
-
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
 import com.springai.init.model.Operacion;
 import com.springai.init.repository.OperacionRepository;
 
